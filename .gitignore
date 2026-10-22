@@ -1,0 +1,6 @@
+.env
+backend/
+frontend/
+node_modules/
+.DS_Store
+AGENTS.md
