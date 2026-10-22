@@ -6,8 +6,8 @@ Doctor Tracker is a small, admin-only portal for managing doctors and their pati
 
 **Live demo**
 
-- Frontend: `<LIVE_FRONTEND_URL>`
-- Backend: `<LIVE_BACKEND_URL>`
+- Frontend: https://doctor-tracker-frontend-iota.vercel.app
+- Backend: https://doctor-tracker-api-3je6.onrender.com/api/v1/health
 - Frontend repository: [doctor-tracker-frontend](https://github.com/HafijurRahmanBhuiyan/doctor-tracker-frontend)
 - Backend repository: [doctor-tracker-backend](https://github.com/HafijurRahmanBhuiyan/doctor-tracker-backend)
 - Root repository: [doctor-tracker](https://github.com/HafijurRahmanBhuiyan/doctor-tracker)
