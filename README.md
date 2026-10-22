@@ -40,7 +40,7 @@ Stop containers with `docker compose down`. To also delete the MongoDB volume an
 
 ```mermaid
 flowchart LR
-  B[Browser] --> N[Next.js frontend and route proxy]
+  B[Browser] -->|Page requests| N[Next.js frontend and route proxy]
   N -->|Bearer JWT REST calls| E[Express API]
   E --> M[(MongoDB)]
 ```
